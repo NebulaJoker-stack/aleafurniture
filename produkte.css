@@ -1,0 +1,85 @@
+#icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#tekst {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-right: 40px;
+}
+
+#cool {
+    margin-left: 30px;
+}
+
+#produkt {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 40px;
+    }
+
+    #heh {
+        color: rgb(88, 99, 102);
+    }
+
+    #inline {
+        display: flex;
+        justify-content: center;
+        gap: 20px;   
+    }
+
+
+    #line {
+        background-color: rgb(88, 99, 102);
+        height: 3px;
+        width: 220px;
+      margin: 20px auto;
+    }
+    
+
+    #col {
+        color: rgb(89, 89, 89);
+    }
+
+   
+    #stop {
+        background-color: rgb(246, 225, 255);
+        width: 307px;
+        height: 227px;
+        margin: 10px;
+        border-top-left-radius: 22px; 
+        border-top-right-radius: 22px;
+      
+       
+    }
+    
+    #chair {
+        height: 200px;
+        width: 150px;
+        overflow: hidden;
+        display: flex;
+        justify-content: center; 
+        margin: 30px;
+    }
+    
+    #chair img {
+        height: 100%; 
+        width: 100%; 
+        object-fit: cover; 
+    }
+    
+    #happy {
+        display: flex;
+        flex-wrap: wrap; 
+        gap: 20px; 
+        justify-content: space-around; 
+        padding: 20px; 
+    }
+
+    a {
+        color: black;
+        text-decoration: none;
+    }

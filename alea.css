@@ -1,0 +1,100 @@
+#icons {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#tekst {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-right: 30px;
+}
+
+#cool {
+    margin-left: 30px;
+}
+
+#pro{
+margin-left: 44px;
+} 
+
+#vin {
+    margin-left: 44px;
+}
+
+#sol, #lol, #vol, #hol {
+    height: 27px;
+    width: 27px;
+    border-radius: 100px;
+    margin-right: 10px; 
+}
+
+#sol {
+    background-color: blue;
+}
+
+#lol {
+    background-color: purple;
+}
+
+#vol {
+    background-color: brown;
+}
+
+#hol {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#lon {
+    font-size: 60px;
+}
+
+
+#nice {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+   }
+#tog {
+    display: flex;
+    margin-left: 10px
+}
+
+#big {
+    height: 73px;
+    width: 207px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#cair {
+    background-color: purple;
+    height: 500px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 780px;
+    margin-top: -540px;
+}
+
+#pls {
+    width: 463px;
+    height: 463px;
+}
+
+#dola {
+    font-size: 40px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
